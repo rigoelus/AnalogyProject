@@ -71,6 +71,7 @@ while i < len(lines):
             assert len(answer) == 1
             questions[question_idx]['answer'] = ord(answer)-ord('a')
             question_idx += 1
+            i += 1
     elif state == FINISHED:
         break
 
