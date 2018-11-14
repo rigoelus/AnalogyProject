@@ -1,0 +1,3409 @@
+______ : trail :: grain : grail
+a. train
+b. path
+c. wheat
+d. holy
+
+particular : fussy :: ______ : subservient
+a. meek
+b. above
+c. cranky
+d. uptight
+
+______ : horse :: board : train
+a. stable
+b. shoe
+c. ride
+d. mount
+
+tureen : ______ :: goblet : wine
+a. napkin
+b. soup
+c. spoon
+d. pilsner
+
+son : nuclear :: ______ : extended
+a. father
+b. mother
+c. cousin
+d. daughters
+
+coif : hair :: ______ : musical
+a. shower
+b. close
+c. praise
+d. score
+
+feta : Greek :: provolone : ______
+a. salad
+b. Swiss
+c. blue
+d. Italian
+
+moccasin : snake :: ______ : shoe
+a. alligator
+b. waders
+c. asp
+d. loafer
+
+______ : zenith :: fear : composure
+a. apex
+b. heaven
+c. heights
+d. nadir
+
+pill : bore :: core : ______
+a. center
+b. mug
+c. bar
+d. placebo
+
+pilfer : steal :: ______ : equip
+a. return
+b. damage
+c. exercise
+d. furnish
+
+native : aboriginal :: naïve : ______
+a. learned
+b. arid
+c. unsophisticated
+d. tribe
+
+junket : ______ :: junk : trash
+a. trounce
+b. trip
+c. refuse
+d. trinket
+
+______ : festive :: funeral : somber
+a. tension
+b. soiree
+c. eulogy
+d. sari
+
+fetish : fixation :: slight : ______
+a. flirt
+b. sloth
+c. insult
+d. confuse
+
+hovel : dirty :: hub : ______
+a. unseen
+b. prideful
+c. busy
+d. shovel
+
+bog : ______ :: slumber : sleep
+a. dream
+b. foray
+c. marsh
+d. night
+
+______ : segue :: throng : mass
+a. subway
+b. church
+c. transition
+d. line
+
+ragtime : United States :: raga : ______
+a. cloth
+b. country
+c. piano
+d. India
+
+miserly : cheap :: homogeneous : ______
+a. extravagant
+b. unkind
+c. alike
+d. friendly
+
+skew : gloomy :: slant : ______
+a. glee
+b. foible
+c. desperate
+d. gloaming
+
+eider : ______ :: cedar : tree
+a. snow
+b. plant
+c. duck
+d. Pine
+
+gerrymander : divide :: filibuster : ______
+a. bend
+b. punish
+c. delay
+d. rush
+
+vapid : ______ :: rapid : swift
+a. inspired
+b. turgid
+c. wet
+d. insipid
+
+denim : cotton :: ______ : flax
+a. sheep
+b. uniform
+c. sweater
+d. Linen
+
+obscene : coarse :: obtuse : ______
+a. subject
+b. obstinate
+c. obscure
+d. Stupid
+
+diamond : baseball :: court : ______
+a. poker
+b. jury
+c. grass
+d. Squash
+
+quixotic : pragmatic :: murky : ______
+a. rapid
+b. cloudy
+c. clear
+d. Friendly
+
+smear : libel :: heed : ______
+a. represent
+b. doubt
+c. consider
+d. Need
+
+nymph : ______ :: seraphim : angel
+a. maiden
+b. sinner
+c. candle
+d. priest
+
+poetry : rhyme :: philosophy : ______
+a. imagery
+b. music
+c. bi-law
+d. theory
+
+jibe : praise :: ______ : enlighten
+a. jib
+b. delude
+c. worship
+d. Wed
+
+marshal : prisoner :: principal : ______
+a. teacher
+b. president
+c. doctrine
+d. student
+
+fecund : infertile :: ______ : fleet
+a. rapid
+b. slow
+c. fertilizer
+d. Damp
+
+mend : sewing :: edit : ______
+a. darn
+b. repair
+c. manuscript
+d. Makeshift
+
+abet : ______ :: alone :: lone
+a. bet
+b. loan
+c. wager
+d. single
+
+piercing : ______ :: hushed : whisper
+a. diamond
+b. watch
+c. siren
+d. Ears
+
+segregate : unify :: repair : ______
+a. approach
+b. push
+c. damage
+d. outwit
+
+congeal : solidify :: ______ : char
+a. conceal
+b. singe
+c. evaporate
+d. charge
+
+______ : marsupial :: monkey : primate
+a. opossum
+b. ape
+c. honeybee
+d. moose
+
+principle : doctrine :: living : ______
+a. will
+b. dead
+c. likelihood
+d. Livelihood
+
+______ : climb :: recession : withdrawal
+a. ascent
+b. absence
+c. dollar
+d. absorption
+
+myopic : farsighted :: ______ : obscure
+a. benevolent
+b. famous
+c. turgid
+d. Wasted
+
+shallot : ______ :: scallop : mollusk
+a. shark
+b. muscle
+c. dessert
+d. onion
+
+conjugate : pair :: partition : ______
+a. divide
+b. consecrate
+c. parade
+d. Squelch
+
+______ : excerpt ::exercise : maneuver
+a. exception
+b. passage
+c. routine
+d. Cause
+
+alphabetical : ______ :: sequential : files
+a. sort
+b. part
+c. list
+d. Order
+
+tacit : implied :: ______ : inferior
+a. shoddy
+b. taciturn
+c. forthright
+d. Superior
+
+implement : rule :: ______ : verdict
+a. propose
+b. render
+c. divide
+d. teach
+
+vaunt : boast :: skewer : ______
+a. flaunt
+b. criticize
+c. prepare
+d. Avoid
+
+gambol : ______ :: gamble : bet
+a. skip
+b. win
+c. bat
+d. Worship
+
+rotation : earth :: ______ : top
+a. planet
+b. spinning
+c. sun
+d. Expanding
+
+gall : vex :: hex : ______
+a. fix
+b. jinx
+c. index
+d. Vixen
+
+monarch : ______ :: king : cobra
+a. queen
+b. butterfly
+c. royal
+d. Venom
+
+iota : jot :: ______ : type
+a. one
+b. ilk
+c. tab
+d. Jet
+
+______ : subject :: veer : path
+a. object
+b. prove
+c. math
+d. Digress
+
+pan : ______ :: ban : judge
+a. band
+b. critic
+c. author
+d. Lawyer
+
+______ : oyster :: paddy : rice
+a. aphrodisiac
+b. mollusk
+c. bed
+d. Sandwich
+
+cicada : ______ :: collie : canine
+a. fruit
+b. mineral
+c. cat
+d. Insect
+
+huckster : ______ :: gangster : crime
+a. corn
+b. trucking
+c. policeman
+d. Advertising
+
+______ : bedrock :: cement : foundation
+a. mica
+b. water
+c. lava
+d. Sand
+
+dolorous : ______ :: sonorous : loud
+a. woozy
+b. weepy
+c. dull
+d. Sleepy
+
+lapidary : ______ :: dramaturge : plays
+a. cows
+b. gems
+c. rabbits
+d. Movies
+
+penurious : ______ :: deep : significant
+a. generous
+b. stingy
+c. decrepit
+d. Cavernous
+
+somnolent : nap :: truculent : ______
+a. sleepwalker
+b. journey
+c. war
+d. Mood
+
+nictitate : ______ :: expectorate : spit
+a. wink
+b. stomp
+c. quit
+d. Smoke
+
+cytology : ______ :: geology : rocks
+a. cyclones
+b. psychology
+c. pharmacology
+d. Cells
+
+proboscis : ______ :: abdomen : gut
+a. prognosis
+b. nose
+c. ear
+d. nausea
+
+rein : horse :: control panel : ______
+a. pilot
+b. bit
+c. plane
+d. Rider
+
+Argentina : Brazil :: ______ : Iran
+a. Canada
+b. Iraq
+c. Ireland
+d. Mexico
+
+______ : play :: sing : anthem
+a. act
+b. scene
+c. theater
+d. field
+
+mouse : ______ :: flash : camera
+a. rat
+b. computer
+c. cord
+d. dessert
+
+cushion : sofa :: shelf : ______
+a. ledge
+b. bookcase
+c. storage
+d. frame
+
+scrub : wash :: sob : ______
+a. cry
+b. water
+c. sad
+d. tease
+
+moisten : ______ :: cool : freeze
+a. water
+b. soak
+c. oven
+d. grow
+
+persimmon : ______ :: cottontail : rabbit
+a. cinnamon
+b. oven
+c. badger
+d. Berry
+
+stars : astronomy :: ______ : history
+a. battles
+b. eclipse
+c. horse
+d. Autumn
+
+______ : unity :: dearth : scarcity
+a. belief
+b. death
+c. cohesion
+d. Fear
+
+Aesop : fable :: Homer : ______
+a. temple
+b. donkey
+c. epic
+d. Greece
+
+turncoat : traitor :: ______ : rogue
+a. scamp
+b. pillow
+c. blush
+d. Tricky
+
+hanker : ______ :: ponder : think
+a. junk
+b. fool
+c. yearn
+d. Bunker
+
+rook : chess :: ______ : badminton
+a. grass
+b. tennis
+c. shuttlecock
+d. Swing
+
+bowler : ______ :: satchel : bag
+a. hat
+b. lane
+c. trophy
+d. Ottoman
+
+______ : wood :: file : nail
+a. hammer
+b. cabinet
+c. saw
+d. plane
+
+volume : ______ :: stanza : poem
+a. measure
+b. pint
+c. encyclopedia
+d. Kitchen
+
+______ : dolphin :: herd : cow
+a. ocean
+b. pod
+c. porpoise
+d. Leap
+
+pharaoh : dynasty :: ______ : democracy
+a. government
+b. election
+c. president
+d. Canada
+
+deplete : decrease :: ______ : avoid
+a. danger
+b. dislike
+c. miss
+d. Shun
+
+chatter : talk :: flutter : ______
+a. dance
+b. wobble
+c. sing
+d. Flap
+
+plead : ______ :: submerge : dip
+a. avoid
+b. dismiss
+c. ask
+d. Covet
+
+doze : sleep :: tiptoe : ______
+a. walk
+b. flat
+c. shelf
+d. Swim
+
+ledger : accounts :: ______ : observations
+a. pundit
+b. weather
+c. astrology
+d. Diary
+
+______ : money :: urn : ashes
+a. cash
+b. wealth
+c. purse
+d. Inheritance
+
+egregious : bad :: ______ : small
+a. minuscule 
+b. tall
+c. wicked
+d. cheap
+
+approach : ______ :: leave : bolt
+a. pounce
+b. arrive
+c. demand
+d. Airport
+
+lawless : order :: captive : ______
+a. trouble
+b. punishment
+c. jail
+d. Freedom
+
+quarry : marble :: ______ : honey
+a. hive
+b. bee
+c. spread
+d. reservoir
+
+seemly : ______ :: torrid : scorching
+a. burnt
+b. invisible
+c. attractive
+d. Horrid
+
+bivouac : ______ :: axis : alliance
+a. diplomacy
+b. sergeant
+c. soldier
+d. camp
+
+pineapple : ______ :: orange : Florida
+a. Dole
+b. Hawaii
+c. Canada
+d. mango
+
+quicksilver : mercury :: goldbrick : ______
+a. worker
+b. idler
+c. money
+d. idol
+
+ribbon : ______ :: icing : cake
+a. present
+b. cut
+c. bow
+d. typewriter
+
+search : ______ :: defeat : vanquish
+a. peer
+b. ransack
+c. destroy
+d. Find
+
+kitten : ______ ::soldier : army
+a. cat
+b. litter
+c. puppy
+d. Meow
+
+cord : telephone ::______ : television
+a. watch
+b. screen
+c. program
+d. table
+
+cub : bear :: joey : ______
+a. cave
+b. doll
+c. kangaroo
+d. truck
+
+fern : plant :: ______ : fish
+a. catch
+b. minnow
+c. animal
+d. Sparrow
+
+______ : wrist :: belt : waist
+a. arm
+b. hand
+c. bend
+d. Bracelet
+
+shark : ______ :: slug : land
+a. seaweed
+b. ocean
+c. sky
+d. slide
+
+
+hangar : airplane :: garage : ______
+a. steak
+b. runway
+c. oil
+d. Automobile
+
+ramp : highway ::______ : house
+a. traffic
+b. head
+c. door
+d. speed
+
+hint : ______ ::whisper : shout
+a. demand
+b. point
+c. surprise
+d. secret
+
+dog : kennel :: bird : ______
+a. fly
+b. feather
+c. aerie
+d. Eagle
+
+______ : codes :: ornithology : birds
+a. cartography
+b. husbandry
+c. species
+d. Cryptography
+
+______ : poem :: fable : story
+a. epic
+b. poet
+c. haiku
+d. rhyme
+
+jetty : ______ ::bouquet : flowers
+a. daffodils
+b. beach
+c. rocks
+d. Water
+
+spoke : ______ ::word : sentence
+a. speaker
+b. paragraph
+c. comma
+d. Wheel
+
+secret : furtive ::audible : ______
+a. resonant
+b. nap
+c. sack
+d. Ring
+
+vamp : shoe :: hood : ______
+a. jacket
+b. car
+c. clean
+d. Crook
+
+fleet : trucks ::______ : teachers
+a. apple
+b. student
+c. book
+d. faculty
+
+______ : assistant ::administrator : teacher
+a. office
+b. school
+c. executive
+d. Campus
+
+algebra : calculus ::______ : surgery
+a. anatomy
+b. knife
+c. doctor
+d. Hospital
+
+pride : ______ :: calm : storm
+a. proud
+b. forecast
+c. sunny
+d. Fall
+
+______ : clue :: pig : truffle
+a. detective
+b. hog
+c. chocolate
+d. France
+
+scientist : experiment ::______ : play
+a. beaker
+b. rehearsal
+c. actor
+d. lab
+
+sloth : action ::______ : principles
+a. unscrupulousness
+b. teachers
+c. hero
+d. Conscientious
+
+______ : speak :: roam : walk
+a. path
+b. silent
+c. write
+d. babble
+
+epilogue : novel ::______ : meal
+a. dessert
+b. repast
+c. lunch
+d. appetizer
+
+______ : tennis :: drive : golf
+a. net
+b. score
+c. racket
+d. Serve
+
+______ : court case :: abstract : research paper
+a. brief
+b. judge
+c. hypothesis
+d. Lawyer
+
+______ : peace :: lion : courage
+a. war
+b. brave
+c. dove
+d. cub
+
+tooth : ______ :: tine : fork
+a. molar
+b. tongue
+c. comb
+d. Spoon
+
+grove : forest :: ______ : lake
+a. pond
+b. ocean
+c. tree
+d. boat
+
+trot : ______ :: jog : sprint
+a. drive
+b. canter
+c. horse
+d. speed
+
+shower : deluge :: ______ : stare
+a. wet
+b. window
+c. ignore
+d. Glance
+
+______ : mug :: trowel : spade
+a. coffee
+b. dig
+c. tumbler
+d. Tavern
+
+carousel : luggage :: escalator : ______
+a. raise
+b. elevator
+c. people
+d. Building
+
+irrelevant : significance :: relaxed : ______
+a. care
+b. calm
+c. thoughtful
+d. asleep
+
+141. pummel : hit :: ______ : recite
+a. disbelief
+b. poem
+c. chant
+d. question
+
+gobble : eat :: ______ : accept
+a. deny
+b. embrace
+c. acquiesce
+d. infer
+
+company : conglomerate :: metal : ______
+a. alloy
+b. aluminum
+c. corporation
+d. furnace
+
+ ______ : silo :: art : museum
+a. field
+b. fodder
+c. farm
+d. windmill
+
+ ______ : grind :: ax : chop
+a. tree
+b. coffee
+c. pestle
+d. Saw
+
+______ : highway ::net : court
+a. road
+b. radar
+c. ticket
+d. Median
+
+crumb : bread ::______ : molecule
+a. shard
+b. atom
+c. trail
+d. Ion
+
+______ : launch :: breakfast : lunch
+a. sandwich
+b. dinner
+c. eggs
+d. Countdown
+
+churn : ______ :: press : wine
+a. paddle
+b. cream
+c. butter
+d. Stomach
+
+collar : shirt :: ______ : hat
+a. button
+b. visor
+c. pullover
+d. Hood
+
+dough : bread ::______ : pancake
+a. griddle
+b. cake
+c. batter
+d. oven
+
+______ : skid :: obstacle : swerve
+a. bike
+b. ice
+c. wheel
+d. roadway
+
+wheat : chaff :: quality : ______
+a. thresh
+b. whole
+c. inadequacy
+d. Worth
+
+______ : forgiveness :: bribe : influence
+a. quarrel
+b. lie
+c. apology
+d. Perjury
+
+follow : chase :: nudge : ______
+a. thrust
+b. pursue
+c. catch
+d. precede
+
+cancel : delay :: surrender : ______
+a. anticipate
+b. yield
+c. fire
+d. Army
+
+holster : pistol :: ______ : knife
+a. weapon
+b. rifle
+c. sheath
+d. Club
+
+thicket : shrubs :: ______ : stars
+a. sun
+b. cluster
+c. orbit
+d. Moon
+
+postmortem : ______ :: rainbow : downpour
+a. address
+b. forecast
+c. morning
+d. death
+
+rake : leaves ::______ : information
+a. homeowner
+b. profile
+c. census
+d. lawn
+
+______ : tradition ::hedonist : pleasure
+a. purist
+b. Eden
+c. displeasure
+d. agnostic
+
+swing : ax :: ______ : sword
+a. honor
+b. dull
+c. parry
+d. knife
+
+elevator : transport :: rickshaw : ______
+a. train
+b. bicycle
+c. carry
+d. slip-shod
+
+lightweight : ______ :: sedan : automobile
+a. beam
+b. boxer
+c. heavyweight
+d. traffic
+
+knave : ______ :: coward : bravery
+a. retreat
+b. beauty
+c. truth
+d. stoicism
+
+______ : ship :: telescope : star
+a. deck
+b. water
+c. periscope
+d. astronomy
+
+tarpaulin : rain :: ______ : stain
+a. stove
+b. picnic
+c. puddle
+d. apron
+
+sniff : inhale :: ______ : lop
+a. crush
+b. snit
+c. snip
+d. adhere
+
+outrage : peeve :: strive : ______
+a. attempt
+b. curse
+c. duel
+d. shun
+
+decrescendo : ______ :: recession : economy
+a. crescendo
+b. finance
+c. boom
+d. volume
+
+thrifty : ______ :: hungry : gluttonous
+a. virtue
+b. vice
+c. avarice
+d. self-control
+
+privy : secret :: sympathetic : ______
+a. spy
+b. grief
+c. clandestine
+d. joy
+
+pallid : color :: tactless : ______
+a. hue
+b. tasteless
+c. verve
+d. diplomatic
+
+din : ______ :: odor : garbage
+a. crowd
+b. tree
+c. dark
+d. nose
+
+______ : incising :: spatula : lifting
+a. pancake
+b. bullhorn
+c. scalpel
+d. truck
+
+break : shift :: minute : ______
+a. second
+b. hour
+c. spell
+d. work
+
+______ : service :: juror : jury
+a. inductee
+b. judge
+c. martial
+d. sequester
+
+ratchet : ______ :: grow : inches
+a. tools
+b. shrink
+c. yards
+d. stages
+
+cellar : house :: ______ : ship
+a. land
+b. hold
+c. ocean
+d. Wave
+
+economy : parsimony :: ______ : rift
+a. disagreement
+b. fissure
+c. bounty
+d. River
+
+admonish : ______ :: defeat : conquer
+a. administer
+b. celebrate
+c. negotiate
+d. berate
+ 
+______ : wheat :: lentil : legume
+a. barley
+b. bread
+c. soup
+d. spelt
+
+mercenary : wages :: dilettante : ______
+a. enjoyment
+b. rifle
+c. strife
+d. market
+
+candle : illuminate :: ______ : cool
+a. breeze
+b. wick
+c. burn
+d. refrigerator
+
+fop : ______ :: documentary : reality
+a. appearance
+b. movie
+c. punishment
+d. fairytale
+
+______ : plant ::
+stable : horse
+a. cow
+b. unstable
+c. oat
+d. nursery
+
+dictionary : definition :: ______ : map
+a. direction
+b. south
+c. atlas
+d. longitude
+
+groom : horse :: ______ : child
+a. track
+b. nanny
+c. gallop
+d. infantry
+
+______ : house :: anklet : sock
+a. shoe
+b. foot
+c. cottage
+d. mansion
+
+annex : ______ :: insert : book
+a. shelf
+b. building
+c. page
+d. wing
+
+______ : retirement :: settlement : injury
+a. golf
+b. lawyer
+c. hospital
+d. pension
+
+______ : king :: bench : judge
+a. throne
+b. queen
+c. court
+d. knight
+
+thumbtack : ______ :: hook : coat
+a. nail
+b. poster
+c. wall
+d. Hammer
+
+hostel : ______ :: barn : livestock
+a. traveler
+b. hotel
+c. countryside
+d. dog
+
+stratus : cloud :: ______ : sound
+a. murmur
+b. lightning
+c. thunderous
+d. night
+
+nourish : ______ :: coddle : comfort
+a. feed
+b. sleep
+c. growth
+d. wheat
+
+______ : game :: plagiarize : words
+a. crossword
+b. poach
+c. sports
+d. willing
+
+speech : ______ :: race : track
+a. lectern
+b. odds
+c. preamble
+d. tote
+
+ransom : captive :: ______ : service
+a. prisoner
+b. gratuity
+c. military
+d. restaurant
+
+glade : ______ :: castle : moat
+a. woods
+b. greenish
+c. royalty
+d. water
+
+______ : sheep :: blight : potato
+a. bleat
+b. wool
+c. rot
+d. fold
+
+______ : flood :: helmet : injury
+a. drowned
+b. Coast Guard
+c. river
+d. levee
+
+______ : team :: freshman : congress
+a. senate
+b. player
+c. rookie
+d. junior
+
+______ : bill :: reimburse : expenses
+a. foot
+b. doctor
+c. charges
+d. bond
+
+______ : blow :: stain : spill
+a. welt
+b. wind
+c. blotch
+d. rug
+
+laconic : words :: parched : ______
+a. heat
+b. moisture
+c. desert
+d. vapid
+
+potable : ______ :: seaworthy : sailing
+a. drinking
+b. potting
+c. portable
+d. navigable
+
+______ : course :: menu : meal
+a. chef
+b. cafeteria
+c. colleges
+d. syllabus
+
+______ : channel :: flare : accident
+a. sinking
+b. buoy
+c. television
+d. river
+
+indifferent : ______ :: ardent : zealot
+a. stoic
+b. altruist
+c. cynic
+d. zealous
+
+bulky : streamlined :: ______ : neat
+a. blimp
+b. aerodynamic
+c. cluttered
+d. obese
+
+scruff : neck :: stern : ______
+a. lecture
+b. dirty
+c. boat
+d. warning
+
+valise : ______ :: cask : wine
+a. bicycle
+b. glass
+c. vine
+d. Clothes
+
+guileless : cunning :: shameless : ______
+a. modesty
+b. guile
+c. winning
+d. shameful
+
+fist : hand :: ______ : loop
+a. wave
+b. rings
+c. circuit
+d. foot
+
+brethren : sect :: actors : ______
+a. company
+b. church
+c. liturgy
+d. stagehand
+
+bonsai : ______ :: sequoia : forest
+a. leaf
+b. sunshine
+c. hibiscus
+d. pot
+
+pylon : ______ :: baton : orchestra
+a. traffic
+b. orange
+c. safety
+d. clarinet
+
+logorrhea : words :: ______ : money
+a. cash
+b. wealth
+c. mint
+d. pesos
+
+chagrin : criticism :: sag : ______
+a. cringe
+b. pressure
+c. nag
+d. redress
+
+aglet : shoelace :: nose : ______
+a. smell
+b. eye
+c. face
+d. proboscis
+
+heliotrope : ______ :: turnover : pastry
+a. cake
+b. angel
+c. candle
+d. shrub
+
+ ______ : deciduous :: pine : coniferous
+a. tree
+b. oak
+c. forest
+d. cone
+
+folderol : ______ :: benevolence : charity
+a. cash
+b. greed
+c. nonsense
+d. event
+
+malice : charity :: ______ : gloom
+a. victim
+b. lose
+c. glee
+d. cloud
+
+total : partial :: ______ : smile
+a. gums
+b. frown
+c. expression
+d. speak
+
+colossal : enormous :: constant : ______
+a. huge
+b. time
+c. faithful
+d. lapsed
+
+whole : ______ :: hole : pit
+a. pittance
+b. whale
+c. donut
+d. sum
+
+______ : courtroom :: nurse : hospital
+a. writ
+b. bailiff
+c. doctor
+d. law
+
+bray : ______ :: bark : dog
+a. braid
+b. tree
+c. donkey
+d. seal
+
+armor : combat :: ______ : sewing
+a. flag
+b. needle
+c. dueling
+d. thimble
+
+decoy : duck :: ______ : fish
+a. hook
+b. lure
+c. pond
+d. boat
+
+barrack : base :: ______ : desert
+a. storm
+b. tank
+c. test
+d. adobe
+
+scythe : grass :: ______ : beard
+a. hair
+b. face
+c. skin
+d. razor
+
+Clementine : orange :: monkey : ______
+a. jungle
+b. baby
+c. ape
+d. robot
+
+lemon : ______ :: chocolate : sweet
+a. citrus
+b. tart
+c. lure
+d. sauce
+
+mean : average :: kind : ______
+a. hurtful
+b. meaning
+c. variety
+d. kindness
+
+moray : eel :: morel : ______
+a. reel
+b. slow
+c. fungus
+d. aquarium
+
+stiff : supple :: fierce : ______
+a. rigid
+b. subtle
+c. ferocious
+d. tame
+
+hilt : sword :: needle : ______
+a. tease
+b. compass
+c. dagger
+d. kilt
+
+often : seldom :: obsolete : ______
+a. antiquated
+b. current
+c. round
+d. mixed
+
+nosegay : flowers :: ______ : players
+a. tickle
+b. fruit
+c. team
+d. ball
+
+olfactory : ______ :: optical : eye
+a. nose
+b. ear
+c. heart
+d. Vision
+
+risible : ______ :: unseen : invisible
+a. liquid
+b. clean
+c. funny
+d. above
+
+swaddle : ______ :: rattle : shake
+a. delay
+b. paddle
+c. snake
+d. envelope
+
+defer : postpone :: proffer : ______
+a. cause
+b. tender
+c. avoid
+d. infer
+
+rue : ______ :: rule : dominate
+a. avenue
+b. domino
+c. regret
+d. rules
+
+abandon : reclaim :: abate : ______
+a. abolish
+b. debate
+c. rise
+d. level
+
+______ : tire :: change : switch
+a. fix
+b. roadside
+c. spare
+d. weary
+
+fatuous : sensible :: ______ : generic
+a. fat
+b. lofty
+c. specific
+d. generous
+
+baleful : beneficent :: sparse : ______
+a. woeful
+b. belligerent
+c. corrupt
+d. dense
+
+extend : abridge :: establish : ______
+a. uproot
+b. bridge
+c. fix
+d. make
+
+curb : spur :: revere : ______
+a. flout
+b. pout
+c. tout
+d. shout
+
+mythical : historical :: general : ______
+a. participatory
+b. particular
+c. colonel
+d. Orderly
+
+surfeit : excess :: excuse : ______
+a. forfeit
+b. disallow
+c. explanation
+d. surface
+
+at loggerheads : ______ :: dumbstruck : amazement
+a. forest
+b. awe
+c. disagreement
+d. agreement
+
+canonize : unshroud :: ignore : ______
+a. gape
+b. jibe
+c. bunk
+d. slag
+
+bona fide : deceit :: languid : ______
+a. action
+b. weakness
+c. truthful
+d. bon mot
+
+cordon : ______ :: seam : stitches
+a. corduroy
+b. troops
+c. chicken
+d. thread
+
+din : racket :: quiet : ______
+a. harmony
+b. hush
+c. discord
+d. cacophony
+
+comical : ______ :: broad : narrow
+a. pathetic
+b. new
+c. joke
+d. hysterical
+
+halve : divide :: ______ : tear
+a. pare
+b. half
+c. rip
+d. scour
+
+scene : locale :: scent : ______
+a. trees
+b. noise
+c. fragrance
+d. local
+
+______ : bed :: dome : stadium
+a. post
+b. ottoman
+c. sleep
+d. canopy
+
+embassy : ambassador :: ______ : eagle
+a. mouse
+b. flag
+c. hawk
+d. nest
+
+______ : bullet :: carat : diamond
+a. silver
+b. cobalt
+c. gun
+d. caliber
+
+unusual : novelty :: ______ : standard
+a. odd
+b. novel
+c. familiar
+d. poem
+
+mural : wall :: inscription : ______
+a. plaque
+b. dedication
+c. brush
+d. floor
+
+jalopy : car :: ______ : house
+a. driveway
+b. dump
+c. castle
+d. Luxury
+
+duvet : ______ :: beret : head
+a. ceiling
+b. legs
+c. bed
+d. neck
+
+______ : college :: mechanic : garage
+a. book
+b. learning
+c. professor
+d. engine
+
+cabana : pool :: chalet : ______
+a. billiards
+b. Swiss
+c. ocean
+d. mountain
+
+mallet : ______ :: racket : tennis
+a. bowling
+b. ball
+c. croquet
+d. net
+
+ledger : accounts :: ______ : observations
+a. pundit
+b. weather
+c. astrology
+d. Diary
+
+powerless : efficacious :: ______ : asocial
+a. corrupt
+b. hidden
+c. social
+d. Limited
+
+plume : feather :: flume : ______
+a. duck
+b. gorge
+c. nest
+d. laughter
+
+______ : blood :: viaduct : water
+a. stream
+b. swim
+c. artery
+d. plasma
+
+outlaw : ______ :: offend : affront
+a. chase
+b. police
+c. crime
+d. forbid
+
+attic : ______ :: crown : head
+a. king
+b. family
+c. stairs
+d. house
+
+enfeeble : fortify :: concede : ______
+a. dispute
+b. close
+c. expect
+d. surrender
+
+slack : ______ :: plucky : courageous
+a. tight
+b. silent
+c. negligent
+d. cowardly
+
+impious : ______ :: indignant : irked
+a. furious
+b. irreverent
+c. irksome
+d. unfriendly
+
+rapier : ______ :: despot : ruler
+a. respite
+b. sword
+c. paper
+d. king
+
+endure : continue :: entreat : ______
+a. plea
+b. segue
+c. purchase
+d. surrender
+
+forgo : ______ :: undo : reverse
+a. go
+b. begin
+c. renounce
+d. forget
+
+jest : earnest :: esteem : ______
+a. just
+b. honor
+c. disgrace
+d. mettle
+
+perennial : ______ :: annual : yearly
+a. continuous
+b. occasional
+c. tulip
+d. garden
+
+______ : ignominy :: equity : fairness
+a. fame
+b. shame
+c. inequality
+d. balance
+
+confederate : ______ :: narrator : chronicler
+a. north
+b. partner
+c. history
+d. teacher
+
+______ : obfuscate :: hinder : help
+a. obscure
+b. whip
+c. lie
+d. explain
+
+vestige : ______ :: vestment : garb
+a. artery
+b. sacrament
+c. clergy
+d. footprint
+
+supplicate : ______ :: replicate : copy
+a. borrow
+b. beg
+c. steal
+d. pinch
+
+invective : abuse :: imposture : ______
+a. sham
+b. imposition
+c. injection
+d. insurrection
+
+wattle : ______ :: crust : bread
+a. waffle
+b. griddle
+c. gait
+d. neck
+
+drum : instrument :: drill : ______
+a. hammer
+b. oven
+c. tool
+d. crescendo
+
+peak : mountain :: ______ : house
+a. maximize
+b. roof
+c. porch
+d. Bungalow
+
+sheet : pad :: flower : ______
+a. card
+b. gift
+c. petal
+d. Bouquet
+
+arid : desert :: ______ : space
+a. night
+b. western
+c. vast
+d. Star
+
+glasses : ______ :: bicycle : unicycle
+a. helmet
+b. pedal
+c. speeds
+d. monocle
+
+______ : real :: hostile : friendly
+a. very
+b. lure
+c. true
+d. imaginary
+
+precinct : city :: chapter : ______
+a. policeman
+b. sentence
+c. charge
+d. book
+
+pilgrim : journey :: recluse : ______
+a. ocean
+b. home
+c. space
+d. Thanksgiving
+
+vestibule : building :: ______ : house
+a. foyer
+b. verranda
+c. porch
+d. yard
+
+seal : wax :: ______ : cork
+a. stopper
+b. bottle
+c. dolphin
+d. envelope
+
+reconcile : fight :: ______ : procrastinate
+a. hurry
+b. stall
+c. cover
+d. shun
+
+______ : cocoa :: omelet : egg
+a. toast
+b. coffee
+c. brownies
+d. pizza
+
+______ : sign :: sink : dip
+a. drop
+b. slip
+c. ink
+d. drink
+
+AC : alternating current :: DC : ______
+a. diverse current
+b. direct current
+c. diode charge
+d. dived cell
+
+______ : spiel :: snarl : mess
+a. spill
+b. pitch
+c. spool
+d. sputter
+
+epaulet : shoulder :: cravat : ______
+a. head
+b. arm
+c. neck
+d. foot
+
+rancor : enmity :: languor : ______
+a. rank
+b. language
+c. sympathy
+d. lethargy
+
+fibula : leg :: ______ : arm
+a. ulna
+b. sternum
+c. pelvis
+d. Tibia
+
+babble : language :: static : ______
+a. sock
+b. truce
+c. word
+d. Transmission
+
+______ : epigram :: sweeping : epic
+a. concise
+b. massive
+c. elliptical
+d. Wordy
+
+brew : ______ :: fret : worry
+a. drink
+b. bar
+c. wipe
+d. contrive
+
+______ : tailored :: gallant : brave
+a. logical
+b. fortuitous
+c. sartorial
+d. homemade
+
+______ : soup :: latex : paint
+a. spoon
+b. spill
+c. heat
+d. stock
+
+queue : ______ :: query : question
+a. quiz
+b. spy
+c. line
+d. surprise
+
+succor : ______ :: ire : anger
+a. aid
+b. offense
+c. flavor
+d. sleep
+
+mythologize : debunk :: exile : ______
+a. stranger
+b. welcome
+c. push
+d. exit
+
+abate : reduce :: beat : ______
+a. surpass
+b. rebate
+c. deduce
+d. Encompass
+ 
+______ : ash :: shard : glass
+a. furnace
+b. smoke
+c. water
+d. cinder
+
+mynah : bird :: terrapin : ______
+a. hemisphere
+b. beak
+c. snake
+d. turtle
+
+bathysphere : ______ :: telescope : astronomer
+a. sea
+b. tub
+c. oceanographer
+d. universe
+
+spelunker : ______ :: astronomer : space
+a. spaceship
+b. light
+c. cave
+d. wave
+
+adore : abhor :: censure : ______
+a. complain
+b. count
+c. extol
+d. question
+
+channel : waterway :: ______ : fabric
+a. polyester
+b. zipper
+c. cotton
+d. stone
+
+ ______ : carousel :: bullet : cylinder
+a. carnival
+b. rifle
+c. slide
+d. cone
+ ______ : urge :: enthrall : interest
+a. confuse
+b. disagree
+c. exhort
+d. enjoy
+
+quick : slow :: youthful : ______
+a. immature
+b. aged
+c. child
+d. adult
+
+deference : elder :: indifference : ______
+a. defendant
+b. child
+c. stranger
+d. judge
+
+parsley : garnish :: salt : ______
+a. pepper
+b. seasoning
+c. grain
+d. parsnip
+
+pitch : throw :: heat : ______
+a. sun
+b. strike
+c. warm
+d. hit
+
+shaft : spear :: neck : ______
+a. sleeve
+b. guitar
+c. sound
+d. blood
+
+______ : future :: historian : past
+a. date
+b. seer
+c. book
+d. general
+
+shadow : trail :: ______ : disgrace
+a. litter
+b. forest
+c. hike
+d. shame
+
+protractor : angle :: ruler : ______
+a. rectangle
+b. length
+c. classroom
+d. king
+
+______ : nine :: pentagon : five
+a. nonagon
+b. hexagon
+c. septum
+d. octagon
+
+rack : ______ :: tack : sailing
+a. billiards
+b. scubadiving
+c. railing
+d. boating
+
+phenomenon : phenomena :: die : ______
+a. heaven
+b. miracle
+c. dice
+d. phenomenal
+
+brag : garb :: drab : ______
+a. mundane
+b. actor
+c. costume
+d. bard
+
+prim : ______ :: grim : somber
+a. timid
+b. probable
+c. neat
+d. primary
+
+______ : water :: tree : sap
+a. fire
+b. forest
+c. nourishment
+d. hydrant
+
+tricycle : wheel :: ______ : month
+a. August
+b. day
+c. perennial
+d. trimester
+
+limp : injury :: ______ : conviction
+a. stumble
+b. inflammation
+c. rest
+d. incarceration
+
+______ : arm :: column : ceiling
+a. leg
+b. sling
+c. floor
+d. wing
+
+partisan : biased :: ______ : limited
+a. first
+b. balanced
+c. dogged
+d. finite
+
+deduce : infer :: ______ : crow
+a. boast
+b. infuriate
+c. soar
+d. reduce
+
+resin : ______ :: gelatin : preserves
+a. raisin
+b. cream
+c. varnish
+d. pudding
+
+hydric : moist :: ______ : burning
+a. tonic
+b. sciatic
+c. phlegmatic
+d. pyric
+
+thresher : ______ :: mastiff : dog
+a. robin
+b. master
+c. shark
+d. policeman
+
+garble : distort :: garner : ______
+a. learn
+b. warble
+c. earn
+d. distress
+
+yeomanly : ______ :: perilous : safe
+a. awkward
+b. disloyal
+c. true
+d. seaworthy
+
+parrot : mimic :: dog : ______
+a. canine
+b. talk
+c. cat
+d. hound
+
+breach : ______ :: fly : bird
+a. seagull
+b. beach
+c. whale
+d. foam
+
+infuse : permeate :: kindle : ______
+a. light
+b. grow
+c. steep
+d. pound
+
+reprove : ______ :: approve : sanction
+a. policy
+b. chide
+c. testify
+d. cancel
+
+defy : obey ::______ : placate
+a. please
+b. aggravate
+c. submit
+d. change
+
+baste : cooking :: ______ : gardening
+a. pinch
+b. mulch
+c. heat
+d. paste
+
+persist : ______ :: eject : welcome
+a. habituate
+b. quit
+c. torment
+d. pest
+
+fuzzy : clarity :: ______ : flexibility
+a. flexible
+b. rigid
+c. clear
+d. forthright
+
+______ : heavy :: ravenous : hungry
+a. light
+b. leaden
+c. slow
+d. boss
+
+festoon : chain :: creek : ______
+a. stream
+b. inlay
+c. crook
+d. island
+
+theology : religion :: phenology : ______
+a. pheremones
+b. psychology
+c. climate
+d. geology
+
+Machiavellian : ______ :: Orwellian : intrusive
+a. unscrupulous
+b. disconsolate
+c. sincere
+d. penurious
+
+physics : ______ :: eugenics : heredity
+a. earthquakes
+b. matter
+c. poetry
+d. sonatas
+
+ ______ : static :: deficient : complete
+a. clinging
+b. electric
+c. alive
+d. kinetic
+
+sagacious : undiscerning :: amusing : ______
+a. clever
+b. droll
+c. humorless
+d. confusing
+
+inchoate : ______ :: gainful : worthwhile
+a. incoherent
+b. profitable
+c. unfinished
+d. choosy
+
+luge : ______ :: toe : tone
+a. ski
+b. lane
+c. lunge
+d. feet
+
+pool : loop :: lap : ______
+a. lifeguard
+b. track
+c. heat
+d. pal
+
+______ : enunciate :: praise : insult
+a. upbraid
+b. umbrage
+c. mumble
+d. broadcast
+
+turban : ______ :: turbine : engine
+a. robe
+b. toga
+c. headdress
+d. nomad
+
+trellis : garden :: fireplace : ______
+a. smoke
+b. house
+c. log
+d. ash
+
+slither : snake :: rotate : ______
+a. rock
+b. support
+c. fan
+d. turn
+
+eraser : pencil :: ______ : pen
+a. write
+b. delete
+c. nib
+d. calligraphy
+
+______ : armor :: equipment : gear
+a. horse
+b. divine
+c. mask
+d. shield
+
+purr : ______ :: huff : indignation
+a. cat
+b. whiff
+c. contentment
+d. Anger
+
+lap : pool :: ______ : space
+a. pass
+b. gene
+c. light-year
+d. slide
+
+lithe : ______ :: slovenly : slob
+a. filth
+b. asleep
+c. giant
+d. dancer
+
+game : series :: ______ : word
+a. winner
+b. sentence
+c. syllable
+d. event
+
+______ : cut :: flowers : bloom
+a. snip
+b. bouquet
+c. teeth
+d. excise
+
+______ : land :: slice : cake
+a. earth
+b. fly
+c. mud
+d. Acre
+
+brig : ______ :: sham : hoax
+a. limerick
+b. crate
+c. prison
+d. Trickery
+
+dolly : ______ :: ferry : passenger
+a. ticket
+b. ship
+c. camera
+d. ocean
+
+prosaic : ______ :: profuse : lush
+a. ordinary
+b. tropical
+c. abundant
+d. sparse
+
+______ : zero :: ampersand : and
+a. goat
+b. zephyr
+c. cipher
+d. champion
+
+scratch : race :: ______ : poker
+a. draw
+b. king
+c. card
+d. fold
+
+______ : hidden :: ebullient : glum
+a. sudden
+b. gloomy
+c. overt
+d. off
+
+gloaming : ______ :: bearing : manner
+a. gloom
+b. beaming
+c. morning
+d. dusk
+
+irreverent : respect :: slipshod : ______
+a. messy
+b. slippery
+c. care
+d. wit
+
+______ : leave :: vacillate : decide
+a. linger
+b. arrive
+c. announce
+d. depart
+
+receipt : ______ :: license : marriage
+a. money
+b. store
+c. purchase
+d. husband
+
+efficient : wasteful :: ______ : deceptive
+a. sly
+b. detective
+c. honest
+d. cautious
+
+finesse : cunning :: ______ : resentment
+a. agility
+b. vision
+c. purpose
+d. jealousy
+
+battalion : ______ :: dollar : cent
+a. army
+b. troop
+c. rifles
+d. battle
+
+pilot : ______ :: doctor : repair
+a. airplane
+b. guide
+c. driver
+d. license
+
+cineast : film :: gastronome : ______
+a. gnomes
+b. files
+c. food
+d. stars
+
+______ : spoil :: walk : path
+a. hike
+b. grass
+c. mold
+d. Trail
+
+osier : ______ :: paper : origami
+a. artisan
+b. basketry
+c. ancient
+d. needlepoint
+
+scimitar : ______ :: revolver : gun
+a. saber
+b. bullet
+c. vest
+d. soldier
+
+Rivera : murals :: ______ : mobiles
+a. Degas
+b. Hopper
+c. Matisse
+d. Calder
+
+mandible : jaw :: metatarsal : ______
+a. chew
+b. chest
+c. foot
+d. neck
+
+ ______ : bow :: stumble : fall
+a. truckle
+b. trickle
+c. tickle
+d. tuck
+
+manacle : hands :: ______ : feet
+a. shin
+b. fetter
+c. stock
+
+ ______ : fez :: pom-pom : tam-o’-shanter
+a. red
+b. Morocco
+c. guard
+d. tassel
+
+flip : impertinent :: dice : ______
+a. cut
+b. cards
+c. bounce
+d. gamble
+
+cheap : peach :: ______ : large
+a. king
+b. regal
+c. orange
+d. majestic
+
+
+worth : whort :: ______ : nadir
+a. apex
+b. arc
+c. drain
+d. sink
+
+development : sprawl :: famine : ______
+a. malnutrition
+b. crawl
+c. urban
+d. Obesity
+
+to : too :: loot : ______
+a. two
+b. steal
+c. toot
+d. lute
+
+member : club :: ______ : pride
+a. lion
+b. win
+c. medal
+d. accept
+
+haste : waste :: ______ : crowd
+a. fast
+b. three
+c. group
+d. makes
+
+whoop : exuberance :: keen : ______
+a. whoops
+b. neat
+c. mourning
+d. diffidence
+
+purse : super :: plea : ______
+a. avoid
+b. charity
+c. help
+d. leap
+
+______ : rainfall :: condensation : humidity
+a. erosion
+b. cloud
+c. ground
+d. forecast
+
+reveille : ______ :: taps : lights out
+a. dance
+b. sunrise
+c. night
+d. awaken
+
+cruiseliner : passengers :: ______ : books
+a. agent
+b. author
+c. volume
+d. library
+
+no : know :: steal : ______
+a. rob
+b. negative
+c. steel
+d. don’t
+
+______ : navigation :: abacus : calculation
+a. circumference
+b. automation
+c. sextant
+d. hydration
+
+binge : begin :: tea : ______
+a. supper
+b. coffee
+c. eat
+d. water
+
+son : sun :: ______ : sew
+a. so
+b. sob
+c. needle
+d. daughter
+
+______ : draw :: list : silt
+a. drawing
+b. ward
+c. sludge
+d. Lean
+
+cabal : ______ :: output : yield
+a. plot
+b. plant
+c. cable
+d. stop
+
+dither : settle :: display : ______
+a. corrupt
+b. bother
+c. hide
+d. count
+
+______ : patois :: plot : design
+a. tiding
+b. mystery
+c. patio
+d. jargon
+
+______ : entertain :: bully : browbeat
+a. miser
+b. raconteur
+c. harmonious
+d. felon
+
+______ : trumpet :: fret : guitar
+a. song
+b. valve
+c. trombone
+d. band
+
+hamstring : ______ :: stake : bet
+a. ride
+b. cripple
+c. scratch
+d. wager
+
+______ : frame :: mosaic : tile
+a. film
+b. engraving
+c. bathroom
+d. decoration
+
+badger : annoy :: ______ : dispute
+a. fox
+b. quarrel
+c. point
+d. reconcile
+
+exasperate : irk :: ______ : dissuade
+a. prevent
+b. leather
+c. argue
+d. dismiss
+
+histrionic : ______ :: didactic : teacher
+a. history
+b. mechanic
+c. actor
+d. debate
+
+lock : canal :: dock : ______
+a. courtroom
+b. locksmith
+c. ear
+d. duck
+
+wildcat : ______ :: forage : food
+a. bobcat
+b. game
+c. mountain
+d. oil
+
+clumsy : dexterity :: ______ : will
+a. passive
+b. oaf
+c. submit
+d. wish
+
+drudgery : work :: cacophony : ______
+a. noise
+b. orchestra
+c. telephone
+d. dissonance
+
+______ : wheat :: lentil : legume
+a. thyme
+b. rice
+c. tofu
+d. spelt
+
+hector : ______ :: foil : thwart
+a. bait
+b. shun
+c. embrace
+d. trail
+
+bow : obeisance :: objective : ______
+a. salute
+b. worship
+c. goal
+d. subjective
+
+probity : ______ :: probability : likelihood
+a. honesty
+b. prohibition
+c. inquisition
+d. eventuality
+
+mnemonics : ______ :: phonetics : language
+a. memory
+b. future
+c. hieroglyphics
+d. movement
+
+cask : sack :: thin : ______
+a. fire
+b. satchel
+c. rope
+d. hint
+
+perfidy : ______ :: satire : parody
+a. treachery
+b. humor
+c. forgiveness
+d. performance
+
+ ______ : plangent :: contemptible : estimable
+a. pungent
+b. quiet
+c. noisy
+d. Combustible
+
+
+sari : India :: ______ : Mexico
+a. sarong
+b. serape
+c. kilt
+d. kimono
+
+femur : ______ :: fibula : calf
+a. foot
+b. thigh
+c. phalange
+d. muscle
+
+mustang : ______ :: jaguar : cat
+a. dog
+b. horse
+c. fish
+d. bird
+
+wed : ______ :: teem : meet
+a. engagement
+b. match
+c. rain
+d. dew
+
+Bath : England :: ______ : France
+a. Lorca
+b. Lourdes
+c. Lucca
+d. Lucerne
+
+Ankara : Turkey :: ______ : Iraq
+a. Teheran
+b. Baghdad
+c. Istanbul
+d. Jordan
+
+18th Amendment : prohibition :: 19th Amendment : ______
+a. speech
+b. suffrage
+c. slavery
+d. Arms
+
+Dickinson : ______ :: Dickens : novel
+a. novella
+b. poem
+c. song
+d. Play
+
+felt : ______ :: smelt : fish
+a. cloth
+b. nose
+c. sneeze
+d. Scale
+
+______ : 1901 :: Lincoln : 1865
+a. Hoover
+b. Taft
+c. McKinley
+d. Ford
+
+Bunker Hill : Revolutionary War :: ______ : Civil War
+a. Concord
+b. Alamo
+c. Boston Massacre
+d. Bull Run
+
+El Cid : Spain :: Alexander : ______
+a. Alexandria
+b. Britain
+c. Germany
+d. Macedonia
+
+de Soto : Spain :: Columbus : ______
+a. West Indies
+b. Italy
+c. Portugal
+d. Santa Maria
+
+Iran : ______ :: Germany : Prussia
+a. Syria
+b. Russia
+c. Iraq
+d. Persia
+
+Swift : satirical :: ______ : macabre
+a. Hemingway
+b. Fitzgerald
+c. Dos Passos
+d. Poe
+
+Tokyo : Edo :: ______ : Ceylon
+a. China
+b. Sri Lanka
+c. Mt. Fuji
+d. Vietnam
+
+______ : Southern :: Hawthorne : Northern
+a. Melville
+b. Faulkner
+c. Kerouac
+d. Hemingway
+
+Tuscan : Italy :: Provençal : ______
+a. Switzerland
+b. Spain
+c. France
+d. England
+
+Freud : psychoanalysis :: ______ : genetics
+a. Mendel
+b. Pavlov
+c. Newton
+d. Copernicus
+
+Fuji : Japan :: Kilimanjaro : ______
+a. Africa
+b. China
+c. India
+d. Australia
+
+______ : Gold Coast :: Zimbabwe : Rhodesia
+a. Ghana
+b. California
+c. Sierra Leone
+d. Senegal
+
+Saluki : ______ :: Akita : Japan
+a. London
+b. Egypt
+c. Chile
+d. Spain
+
+gold : Au :: silver : ______
+a. Pb
+b. Ag
+c. Fe
+d. Sn
+
+peck : quart :: ______ : pint
+a. kiss
+b. gallon
+c. glass
+d. pound
+
+Dryads : tree :: Naiads : ______
+a. rock
+b. fire
+c. sky
+d. water
+
+pound : United Kingdom :: ______ : Costa Rica
+a. franc
+b. colón
+c. peseta
+d. dollar
+
+Xerxes : Persia :: Nebuchadnezzar : ______
+a. Mesopotamia
+b. Egypt
+c. Babylon
+d. Peru
+
+Griffin : lion :: Satyr : ______
+a. owl
+b. goat
+c. wings
+d. horse
+
+Le Corbusier : architecture :: Rodin : ______
+a. symphony
+b. sculpture
+c. novel
+d. automobile
+
+
+Dalí : surrealism :: Braque : ______
+a. realism
+b. pop
+c. cubism
+d. portraits
+
+Nike : victory :: ______ : hunt
+a. Ares
+b. Artemis
+c. Hades
+d. Hermes
+
+Om : ______ :: Ganges : India
+a. Spain
+b. Sweden
+c. Hindu
+d. Russia
+
+Waterloo : Napoleon :: Appomattox : ______
+a. Lincoln
+b. Grant
+c. Lee
+d. Sherman
+
+Mohs : ______ :: Richter : earthquake
+a. intensity
+b. damage
+c. mineral
+d. wind
+
+______ : highest :: Death Valley : lowest
+a. Mt. Rainier
+b. Mauna Kea
+c. Lake Champlain
+d. Mt. McKinley
+
+Samuel Clemens : Mark  Twain :: Mary Ann Evans : ______
+a. Eudora Welty
+b. George Eliot
+c. George Sand
+d. Emily Brontë
+
+Mississippi : Gulf of Mexico :: Nile : ______
+a. Indian Ocean
+b. Mediterranean Sea
+c. Atlantic Ocean
+d. Persian Gulf
+
+Crazy Horse : ______ :: Cochise : Apache
+a. Sioux
+b. Inuit
+c. Navajo
+d. Custer
+
+Neptune : Poseidon :: Jupiter : ______
+a. Nike
+b. Mars
+c. Zeus
+d. Hera
+
+Phoenix : bird :: Pegasus : ______
+a. fish
+b. horse
+c. goat
+d. snake
+
+Des Moines : Iowa :: ______ : Texas
+a. Dallas
+b. Fort Worth
+c. Austin
+d. Cedar Rapids
+
+Hawaii : 1959 :: ______ : 1912
+a. New York
+b. South Carolina
+c. Arizona
+d. Maine
+
+Sophocles : B.C. :: ______ : A.D.
+a. Euripedes
+b. Pindar
+c. Dante
+d. Virgil
+
+
+Answers: 
+A
+A
+D
+B
+C
+D
+D
+D
+D
+A
+D
+C
+B
+B
+C
+C
+C
+C
+D
+C
+C
+C
+C
+D
+D
+D
+C
+C
+A
+D
+B
+D
+B
+C
+A
+C
+C
+B
+A
+D
+A
+B
+D
+A
+B
+C
+A
+B
+B
+A
+B
+B
+B
+B
+D
+B
+C
+D
+D
+A
+B
+B
+B
+C
+A
+D
+B
+C
+B
+A
+B
+B
+A
+B
+D
+A
+C
+C
+A
+C
+C
+A
+D
+C
+B
+C
+B
+C
+D
+D
+C
+A
+D
+C
+A
+A
+D
+A
+C
+D
+B
+B
+A
+B
+B
+B
+C
+B
+D
+B
+D
+C
+A
+C
+D
+C
+C
+D
+A
+B
+D
+C
+A
+D
+A
+C
+A
+D
+A
+D
+A
+C
+C
+A
+B
+D
+C
+C
+A
+C
+B
+A
+B
+C
+D
+B
+D
+C
+B
+C
+B
+C
+C
+A
+B
+C
+B
+D
+C
+A
+C
+C
+B
+C
+C
+D
+C
+A
+D
+C
+B
+D
+A
+C
+B
+A
+D
+B
+B
+D
+D
+A
+D
+A
+D
+C
+B
+C
+B
+D
+A
+B
+A
+A
+C
+B
+A
+B
+A
+C
+D
+C
+A
+A
+B
+A
+D
+B
+A
+C
+A
+C
+D
+A
+C
+A
+D
+A
+B
+B
+C
+D
+B
+C
+C
+B
+C
+D
+B
+C
+D
+B
+D
+D
+C
+B
+C
+C
+D
+B
+B
+C
+A
+C
+D
+B
+C
+C
+D
+C
+D
+A
+A
+B
+C
+C
+A
+A
+B
+B
+A
+C
+C
+D
+D
+D
+C
+A
+B
+C
+C
+D
+C
+D
+C
+B
+C
+D
+D
+A
+C
+B
+B
+A
+C
+C
+A
+B
+B
+D
+D
+B
+A
+D
+C
+B
+D
+C
+D
+D
+D
+B
+A
+A
+A
+C
+C
+B
+B
+C
+D
+A
+D
+A
+D
+C
+D
+C
+A
+B
+A
+D
+D
+C
+C
+C
+C
+C
+C
+B
+C
+B
+C
+B
+B
+D
+B
+A
+A
+C
+D
+C
+D
+D
+D
+B
+D
+A
+C
+D
+C
+C
+B
+D
+C
+A
+B
+B
+B
+B
+B
+B
+A
+C
+A
+B
+D
+C
+C
+C
+D
+C
+C
+B
+C
+C
+D
+C
+C
+D
+C
+C
+D
+C
+C
+A
+C
+D
+C
+D
+C
+A
+C
+C
+D
+B
+B
+C
+C
+D
+A
+D
+C
+A
+B
+D
+A
+B
+C
+A
+D
+A
+B
+C
+D
+A
+D
+D
+C
+C
+C
+A
+B
+A
+C
+D
+B
+B
+B
+A
+B
+A
+C
+A
+D
+A
+A
+D
+A
+C
+A
+A
+D
+A
+B
+B
+B
+B
+D
+B
+B
+B
+B
+A
+C
+D
+D
+B
+D
+D
+B
+B
+C
+A
+A
+A
+B
+B
+B
+D
+B
+C
+B
+B
+C
+B
+D
+C
+C
+D
+B
+B
+A
+C
+D
+C
+C
+C
