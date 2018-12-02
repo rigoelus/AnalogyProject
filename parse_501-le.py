@@ -23,7 +23,7 @@ PARSING_CHOICES = 1
 PARSING_ANSWERS = 2
 FINISHED = 3
 state = FINDING_QUESTION
-EMPTY_QUESTION = {'question':'', 'choices':[], 'answer':[]}
+EMPTY_QUESTION = {'question':'', 'choices':[], 'answer': 0, 'blank': 0}
 curr_question = copy.deepcopy(EMPTY_QUESTION)
 
 QUESTION_BLANK = '_'*5
@@ -39,9 +39,24 @@ while i < len(lines):
                 break
             elif ques_regex.match(lines[i]):
                 ques = [ques_splitter2.split(x) for x in ques_splitter1.split(lines[i].lower())]
-                for j in range(len(ques)):
-                    if '_' in ques[j]:
-                        ques[j] = QUESTION_BLANK
+                blank_j = 0
+                for j, word in enumerate(sum(ques, [])):
+                    if '_' in word:
+                        blank_j = j
+                        break
+
+                curr_question['blank'] = blank_j
+
+                # permute the question such that the blank is the last word
+                if blank_j % 2 == 0: # swap `a`, `b`; and `c` and `d`
+                    ques[0][0], ques[0][1] = ques[0][1], ques[0][0]
+                    ques[1][0], ques[1][1] = ques[1][1], ques[1][0]
+                if blank_j < 2:
+                    ques[0], ques[1] = ques[1], ques[0]
+
+                ques = sum(ques, []) # flatten after swapping
+
+                ques[3] = QUESTION_BLANK
                 curr_question['question'] = ques
 
                 state = PARSING_CHOICES
