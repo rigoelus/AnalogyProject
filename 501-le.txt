@@ -208,7 +208,7 @@ b. repair
 c. manuscript
 d. Makeshift
 
-abet : ______ :: alone :: lone
+abet : ______ :: alone : lone
 a. bet
 b. loan
 c. wager
@@ -3405,5 +3405,4 @@ B
 C
 C
 C
-D
-D
+
