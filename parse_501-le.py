@@ -11,7 +11,7 @@ questions = []
 infile = '501-le.txt'
 lines = [x.strip() for x in open(infile).readlines()]
 
-word_regex = r'[A-Za-z_ ]+'
+word_regex = r'[\w ]+'
 ques_regex = re.compile(word_regex + r'\s*:\s*' + word_regex + r'\s*::\s*'\
                         + word_regex + r'\s*:\s*' + word_regex)
 ques_splitter1 = re.compile(r'\s*::+\s*')
