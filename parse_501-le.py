@@ -67,8 +67,8 @@ while i < len(lines):
     elif state == PARSING_CHOICES:
         while i < len(lines):
             if choice_regex.match(lines[i]):
-                splits = lines[i].lower().split(' ')
-                curr_question['choices'].append(splits[-1])
+                splits = lines[i].lower().strip().split('.', 1)
+                curr_question['choices'].append(splits[-1].strip())
 
                 i += 1
             else:
