@@ -17,57 +17,81 @@ def Vanilla1Blank(pairVector1, pairVector2, blankVector1, choiceArray):
     best_vector = pairVector1 - pairVector2 + blankVector1
     def cosine_sim(vector1):
         return 1 - spatial.distance.cosine(vector1, best_vector)
-    sim_list = list(map(cosine_sim, choiceArray))
-    return sim_list.index(max(sim_list))
+    sim_list = np.fromiter(map(cosine_sim, choiceArray), dtype=float)
+    try:
+        return np.nanargmax(sim_list)
+    except:
+        return 0
 
 def OnlyBlank1Blank(pairVector1, pairVector2, blankVector1, choiceArray):
     best_vector = blankVector1
     def cosine_sim(vector1):
         return 1 - spatial.distance.cosine(vector1, best_vector)
-    sim_list = list(map(cosine_sim, choiceArray))
-    return sim_list.index(max(sim_list))
+    sim_list = np.fromiter(map(cosine_sim, choiceArray), dtype=float)
+    try:
+        return np.nanargmax(sim_list)
+    except:
+        return 0
 
 def Ignore1Blank(pairVector1, pairVector2, blankVector1, choiceArray):
     best_vector = pairVector2 + blankVector1
     def cosine_sim(vector1):
         return 1 - spatial.distance.cosine(vector1, best_vector)
-    sim_list = list(map(cosine_sim, choiceArray))
-    return sim_list.index(max(sim_list))
+    sim_list = np.fromiter(map(cosine_sim, choiceArray), dtype=float)
+    try:
+        return np.nanargmax(sim_list)
+    except:
+        return 0
 
 def AddOpposite1Blank(pairVector1, pairVector2, blankVector1, choiceArray):
     best_vector = blankVector1 - pairVector1 + pairVector2
     def cosine_sim(vector1):
         return 1 - spatial.distance.cosine(vector1, best_vector)
-    sim_list = list(map(cosine_sim, choiceArray))
-    return sim_list.index(max(sim_list))
+    sim_list = np.fromiter(map(cosine_sim, choiceArray), dtype=float)
+    try:
+        return np.nanargmax(sim_list)
+    except:
+        return 0
 
 def Vanilla2Blank(pairVector1, pairVector2, choiceArray):
     best_vector = pairVector1 - pairVector2
     def cosine_sim(vector1):
         return 1 - spatial.distance.cosine(vector1[1], best_vector + vector1[0])
-    sim_list = list(map(cosine_sim, choiceArray))
-    return sim_list.index(max(sim_list))
+    sim_list = np.fromiter(map(cosine_sim, choiceArray), dtype=float)
+    try:
+        return np.nanargmax(sim_list)
+    except:
+        return 0
 
 def OnlyBlank2Blank(pairVector1, pairVector2, choiceArray):
     best_vector = pairVector1 - pairVector2
     def cosine_sim(vector1):
         return 1 - spatial.distance.cosine(vector1[1], vector1[0])
-    sim_list = list(map(cosine_sim, choiceArray))
-    return sim_list.index(max(sim_list))
+    sim_list = np.fromiter(map(cosine_sim, choiceArray), dtype=float)
+    try:
+        return np.nanargmax(sim_list)
+    except:
+        return 0
 
 def Ignore2Blank(pairVector1, pairVector2, choiceArray):
     best_vector = pairVector2
     def cosine_sim(vector1):
         return 1 - spatial.distance.cosine(vector1[1], best_vector + vector1[0])
-    sim_list = list(map(cosine_sim, choiceArray))
-    return sim_list.index(max(sim_list))
+    sim_list = np.fromiter(map(cosine_sim, choiceArray), dtype=float)
+    try:
+        return np.nanargmax(sim_list)
+    except:
+        return 0
 
 def AddOpposite2Blank(pairVector1, pairVector2, choiceArray):
     best_vector = pairVector2 - pairVector1
     def cosine_sim(vector1):
         return 1 - spatial.distance.cosine(vector1[1], best_vector + vector1[0])
-    sim_list = list(map(cosine_sim, choiceArray))
-    return sim_list.index(max(sim_list))
+    sim_list = np.fromiter(map(cosine_sim, choiceArray), dtype=float)
+    try:
+        return np.nanargmax(sim_list)
+    except:
+        return 0
 
 if __name__ == "__main__":
     #gutenberg2 = Word2Vec(gutenberg.sents(), iter=10, min_count=25, size=500, workers=4, sg=1)
